@@ -1,1 +1,2 @@
-Audio_Catalogue test project, requirements and test cases are presented in the uploaded files.
+Документация, тест кейсы и отчет о дефектах к тестовому приложению Audio Cataloger (По курсу Куликов С., EPAM)
+Выполнил: Богданов А.К.
